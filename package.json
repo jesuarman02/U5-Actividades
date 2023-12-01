@@ -1,0 +1,18 @@
+{
+  "name": "actividad-u5",
+  "version": "1.0.0",
+  "description": "Test de Conexion a MogoDbAtlas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Armando Ambrosio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1",
+    "nodemon": "^3.0.1"
+  }
+}
